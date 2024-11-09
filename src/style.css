@@ -1,1 +1,20 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+html, body {
+    background-color:rgb(92, 92, 92) 
+}
+
+.excuseBtn {
+    width: 300px;
+    height: 100px;
+    margin-top: 150px;
+    background-color: red;
+    box-shadow: 
+    0 0 50px 20px #c40303,
+    5px 5px 5px 5px #630000;
+    color:azure
+
+}
+
+.dontPress {
+    margin-top: 150px;
+}
